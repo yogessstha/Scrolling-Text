@@ -1,3 +1,3 @@
-<h1>Scrolling Text</h1>
+#Scrolling Text
 ![](screenrecord.gif)
 
